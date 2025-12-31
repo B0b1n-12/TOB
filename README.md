@@ -1,4 +1,4 @@
-# TOB – [Vollständiger Name deines Projekts]
+# TOB 
 
 [![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/B0b1n-12/TOB/releases)
