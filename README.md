@@ -9,7 +9,7 @@ Beispiel: „Dieses Repository enthält die Quellcodes und die Dokumentation fü
 
 - **Autor:** Jan Liebich (@B0b1n-12)
 - **Status:** In Entwicklung / Fertiggestellt
-- **Technologien:** [z.B. Python, C++, Java]
+- **Technologien:** [C++]
 
 ## ✨ Funktionen
 - [ ] Funktion 1: Kurze Beschreibung
